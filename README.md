@@ -1,16 +1,28 @@
-# Kraut & Bacon Auction Command Center
+# DWALL'S Fantasy Football Auction Command Center
 
-Single-file GitHub Pages app for the 2026 Kraut & Bacon fantasy football salary-cap draft.
+Auction-league version with team names loaded.
 
-## Aug. 10, 2026 source refresh
+## Team names loaded
 
-Updated public values:
-- Yahoo: visible public top values available from the public search result
-- FantasyNerds: visible PPR, 12-team, $200 top 10
-- Draft Sharks: visible PPR top section where rows were confidently mapped
+1. Pabst Interference
+2. Enrico Pallazzo
+3. Flip*121*
+4. Hogs are beautiful
+5. Jason's Matchless Team
+6. King Kraut
+7. Sack Production
+8. TacoCorp
+9. TD City Fire Sale
+10. The Matthew Kurdenok Show
+11. Volunteers
+12. It's Shough Time
 
-Rows that were unavailable because of rate limits, premium gates, or dynamic rendering remain labeled as modeled/prior reference values.
+## Important
 
-## Publish
+This is an auction league version:
+- Team order does not matter for bidding.
+- Add keepers manually first.
+- Enter every winning bid in Auction Bid mode.
+- Budgets, max legal bids, and live inflation update automatically.
 
-Upload everything in this package to a GitHub repo. In Settings > Pages, choose GitHub Actions.
+No keeper is preloaded.
